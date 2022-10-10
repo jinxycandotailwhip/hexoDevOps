@@ -1,0 +1,218 @@
+nohup: 忽略输入
+2022/10/10 17:26:43 start server
+2022/10/10 17:27:06 hexoCommand Newpage
+2022/10/10 17:27:15 INFO  Validating config
+INFO  Created: ~/workdir/hexo/jinxycandotailwhip/source/_posts/jinxytest.md
+
+2022/10/10 17:27:17 [master 9e9a278] robot new page commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+ rename source/_posts/{newPage-bat.md => jinxytest.md} (57%)
+
+2022/10/10 17:27:17 hexo new page succeed
+2022/10/10 17:27:20 hexoCommand Generate
+2022/10/10 17:27:33 已经是最新的。
+INFO  Validating config
+INFO  Start processing
+INFO  
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+INFO  Files loaded in 2.63 s
+INFO  Generated: local-search.xml
+INFO  Generated: 2022/10/10/jinxytest/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: index.html
+INFO  Generated: archives/2022/10/index.html
+INFO  Generated: 2022/10/05/raspberryPi-hexo建站/index.html
+INFO  Generated: archives/2022/index.html
+INFO  7 files generated in 699 ms
+
+2022/10/10 17:27:33 hexo generate succeed
+2022/10/10 17:28:54 hexoCommand Generate
+2022/10/10 17:29:13 更新 9e9a278..71b7312
+Fast-forward
+ newPage.bat                                                 | 1 +
+ "source/_posts/raspberryPi-hexo\345\273\272\347\253\231.md" | 2 +-
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 newPage.bat
+INFO  Validating config
+INFO  Start processing
+INFO  
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+INFO  Files loaded in 8.34 s
+INFO  Generated: local-search.xml
+INFO  Generated: 2022/10/05/raspberryPi-hexo建站/index.html
+INFO  2 files generated in 640 ms
+
+2022/10/10 17:29:13 hexo generate succeed
+2022/10/10 17:30:28 hexoCommand Newpage
+2022/10/10 17:30:37 INFO  Validating config
+INFO  Created: ~/workdir/hexo/jinxycandotailwhip/source/_posts/jinxytest2.md
+
+2022/10/10 17:30:41 [master c6de65a] robot new page commit
+ 1 file changed, 6 insertions(+)
+ create mode 100644 source/_posts/jinxytest2.md
+
+2022/10/10 17:30:41 hexo new page succeed
+2022/10/10 17:30:43 hexoCommand Generate
+2022/10/10 17:30:57 已经是最新的。
+INFO  Validating config
+INFO  Start processing
+INFO  
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+INFO  Files loaded in 2.59 s
+INFO  Generated: 2022/10/10/jinxytest2/index.html
+INFO  Generated: local-search.xml
+INFO  Generated: 2022/10/10/jinxytest/index.html
+INFO  Generated: archives/2022/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: archives/2022/10/index.html
+INFO  Generated: index.html
+INFO  7 files generated in 820 ms
+
+2022/10/10 17:30:57 hexo generate succeed
+2022/10/10 17:33:49 hexoCommand Newpage
+2022/10/10 17:33:58 INFO  Validating config
+INFO  Created: ~/workdir/hexo/jinxycandotailwhip/source/_posts/jinxytest3.md
+
+2022/10/10 17:34:00 [master d74c225] robot new page commit
+ 1 file changed, 6 insertions(+)
+ create mode 100644 source/_posts/jinxytest3.md
+
+2022/10/10 17:34:00 hexo new page succeed
+2022/10/10 17:34:04 hexoCommand Generate
+2022/10/10 17:34:18 已经是最新的。
+INFO  Validating config
+INFO  Start processing
+INFO  
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+INFO  Files loaded in 2.59 s
+INFO  Generated: local-search.xml
+INFO  Generated: 2022/10/10/jinxytest3/index.html
+INFO  Generated: archives/2022/index.html
+INFO  Generated: archives/2022/10/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: 2022/10/10/jinxytest2/index.html
+INFO  Generated: index.html
+INFO  7 files generated in 731 ms
+
+2022/10/10 17:34:18 hexo generate succeed
+2022/10/10 17:36:02 hexoCommand Generate
+2022/10/10 17:36:16 更新 d74c225..b9a6160
+Fast-forward
+ .gitignore                  | 3 +--
+ newPage.bat                 | 4 +++-
+ source/_posts/jinxytest.md  | 6 ------
+ source/_posts/jinxytest2.md | 6 ------
+ source/_posts/jinxytest3.md | 6 ------
+ 5 files changed, 4 insertions(+), 21 deletions(-)
+ delete mode 100644 source/_posts/jinxytest.md
+ delete mode 100644 source/_posts/jinxytest2.md
+ delete mode 100644 source/_posts/jinxytest3.md
+INFO  Validating config
+INFO  Start processing
+INFO  
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+INFO  Files loaded in 2.3 s
+INFO  Deleted: 2022/10/10/jinxytest3/index.html
+INFO  Deleted: 2022/10/10/jinxytest2/index.html
+INFO  Deleted: 2022/10/10/jinxytest/index.html
+INFO  Generated: local-search.xml
+INFO  Generated: archives/index.html
+INFO  Generated: archives/2022/index.html
+INFO  Generated: archives/2022/10/index.html
+INFO  Generated: index.html
+INFO  Generated: 2022/10/05/raspberryPi-hexo建站/index.html
+INFO  6 files generated in 705 ms
+
+2022/10/10 17:36:16 hexo generate succeed
+2022/10/10 17:59:16 hexoCommand Generate
+2022/10/10 17:59:29 更新 b9a6160..756b167
+Fast-forward
+ source/about/index.md | 1 +
+ 1 file changed, 1 insertion(+)
+INFO  Validating config
+INFO  Start processing
+INFO  
+------------------------------------------------
+|                                              |
+|     ________  __            _        __      |
+|    |_   __  |[  |          (_)      |  ]     |
+|      | |_ \_| | | __   _   __   .--.| |      |
+|      |  _|    | |[  | | | [  |/ /'`\' |      |
+|     _| |_     | | | \_/ |, | || \__/  |      |
+|    |_____|   [___]'.__.'_/[___]'.__.;__]     |
+|                                              |
+|             感谢使用 Fluid 主题 !            |
+|    文档: https://hexo.fluid-dev.com/docs/    |
+|                                              |
+------------------------------------------------
+
+INFO  Files loaded in 2.44 s
+INFO  Generated: about/index.html
+INFO  1 files generated in 684 ms
+
+2022/10/10 17:59:29 hexo generate succeed
