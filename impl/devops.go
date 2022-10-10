@@ -26,6 +26,13 @@ func HexoCommandNewPage(name string) error {
 		return err
 	}
 	log.Println(string(bytes))
+	cmd = exec.Command("touch", "/home/pi/workdir/hexo/jinxycandotailwhip/source/_posts/"+name+"/.gitkeep")
+	bytes, err = cmd.Output()
+	if err != nil {
+		log.Fatal("cmd output:", err)
+		return err
+	}
+	log.Println(string(bytes))
 	cmd = exec.Command("./sh/push.sh")
 	bytes, err = cmd.Output()
 	if err != nil {
